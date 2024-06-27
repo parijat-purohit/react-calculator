@@ -30,7 +30,8 @@ function App() {
   };
  
   function resetInput(e) { 
-    inputRef.current.value = '';
+    e.preventDefault();
+    inputRef.current.value = 0;
   }; 
  
   function resetResult(e) { 

@@ -1,3 +1,6 @@
+### Coursera React Basics Calculator
+This repository contains very basic implementation of a calculator for the `Coursera React Basics` course.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
