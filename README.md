@@ -1,5 +1,5 @@
-###
-Coursera React Basics Course Calculator
+# Coursera React Basics Course Calculator
+This is a tiny tiny project completed at the end of a react basic course. The calculator would simply do addition, substraction, multiplication and division. On top of that, reset result and reset input buttons have some functionality as well.
 
 # Getting Started with Create React App
 
